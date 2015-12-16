@@ -2,6 +2,7 @@ name: airvantage
 favicon: null
 layout_spectrum: 0.41887840279377997
 typography_spectrum: 0.16651100991293788
+title: Air Vantage
 cta:
   domain: null
   bucket: null
