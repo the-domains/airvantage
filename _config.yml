@@ -1,0 +1,28 @@
+name: airvantage
+favicon: null
+layout_spectrum: 0.41887840279377997
+typography_spectrum: 0.16651100991293788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6426712679676712
+  lightness: 0.549439704278484
+  saturation: 0.06847487716004252
+  rhythmicContrast: 0.23583561833947897
+purpose: []
